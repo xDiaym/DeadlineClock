@@ -23,7 +23,7 @@ function getDeadlineUnixTime(json) {
 }
 
 route.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname + '/index.html'));
+    res.sendFile(path.join(__dirname + '/templates/index.html'));
 });
 
 route.get('/time', (req, res) => {
