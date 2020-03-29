@@ -23,10 +23,10 @@ as shown in the example below
 > PLEASE NOTE THAT YOU NEED TO ENTER A MONTH - 1
 > Hour, minute, second fields are optional
 
-```
+'''
 npm install
 npm start
-```
+'''
 
 ## License
 This project is licensed under [BSD 3 Clause](https://opensource.org/licenses/BSD-3-Clause)
