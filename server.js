@@ -3,7 +3,7 @@ const config = require('./config.json');
 const express = require('express');
 const path = require('path');
 
-const port = process.env.port || 5000;
+const port = process.env.PORT || 5000;
 const deadline = getDeadlineUnixTime(config);
 
 const app = express();
