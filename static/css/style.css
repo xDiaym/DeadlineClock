@@ -1,0 +1,14 @@
+body {
+    margin-top: 270px;
+    text-align: center;
+    background-color: #eeeeee;
+}
+
+#title {
+    font-size: 50px;
+}
+
+#clock {
+    font-weight: 300;
+    font-size: 120px;
+}

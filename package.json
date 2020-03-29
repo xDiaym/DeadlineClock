@@ -1,0 +1,20 @@
+{
+  "name": "samsung-deadline-clock",
+  "version": "0.1.0",
+  "description": "Reverse timer before submitting projects at myitschool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "keywords": [
+    "clock",
+    "express"
+  ],
+  "repository": "https://github.com/xDiaym/deadlineClock.git",
+  "author": "xDiaym",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
