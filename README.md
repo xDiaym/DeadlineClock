@@ -20,7 +20,7 @@ as shown in the example below
   "second": 0
 }
 ```
-> PLEASE NOTE THAT YOU NEED TO ENTER A MONTH - 1
+> PLEASE NOTE THAT YOU NEED TO ENTER A MONTH - 1  
 > Hour, minute, second fields are optional
 
 ```
